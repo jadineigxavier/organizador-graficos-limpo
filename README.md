@@ -52,7 +52,7 @@ organizador-graficos/
 ## Como rodar
 
 ```bash
-git clone https://github.com/jadineigxavier/Automa-o-de-Organiza-o-de-Arquivos
+git clone https://github.com/jadineigxavier/organizador-graficos-limpo
 cd organizador-graficos
 
 python -m venv venv
