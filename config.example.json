@@ -1,0 +1,15 @@
+{
+  "regras_qualidade": {
+    "dpi_minimo": 300,
+    "modos_cor_aceitos": ["CMYK"]
+  },
+  "padrao_nome": "{data}_OS{os}_{categoria}_{indice:03d}{ext}",
+  "pastas_destino": {
+    "prontos": "Prontos_Para_Chapa",
+    "revisar_dpi": "Revisar_Baixa_Resolucao",
+    "revisar_cor": "Revisar_Perfil_Cor",
+    "vetores": "Vetores",
+    "documentos": "Documentos",
+    "outros": "Outros"
+  }
+}
